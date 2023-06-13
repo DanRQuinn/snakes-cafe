@@ -5,3 +5,7 @@ I this app a menu displays and the user selects a meal to order. If multiples of
 ## tests
 
 no tests for this lab
+
+## Credit 
+Ashley Taylor
+Jared Ciccarello
