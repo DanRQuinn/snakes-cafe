@@ -7,5 +7,6 @@ I this app a menu displays and the user selects a meal to order. If multiples of
 no tests for this lab
 
 ## Credit 
+Dan Quinn
 Ashley Taylor
 Jared Ciccarello

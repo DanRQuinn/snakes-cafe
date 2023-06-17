@@ -1,5 +1,5 @@
-def menu():
-    menu = """
+
+menu =   """
 **************************************
 **    Welcome to the Snakes Cafe!   **
 **    Please see our menu below.    **
@@ -33,7 +33,7 @@ Tea
 Unicorn Tears
 
 ***********************************
-** What would you like to order? **
+** What would you like to order? **    
 ***********************************"""
 
 print(menu)
@@ -53,5 +53,4 @@ def order():
     print("Exiting")
 
 if __name__ == "__main__":
-    menu()
     order()
